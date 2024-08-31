@@ -3,12 +3,12 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url' 
 
 global.owner = [
-  ['59172945992', 'FG98', true],
+  ['595991552792', 'FG98', true],
   ['5491168352204']
 ] //Numeros de owner 
 
-global.mods = [''] 
-global.prems = ['50489079501', '573143917092']
+global.mods = ['595991552792'] 
+global.prems = ['595991552792', '573143917092']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -20,11 +20,11 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Senna┃ᴮᴼᵀ' 
+global.packname = 'Ari┃ᴮᴼᵀ' 
 global.author = '@fg98' 
 
 //--info FG
-global.botName = 'Senna'
+global.botName = 'Ari'
 global.fgig = 'https://instagram.com/fg98_ff' 
 global.fgsc = 'https://github.com/FG98F/dylux-fg' 
 global.fgyt = 'https://youtube.com/fg98f'
@@ -38,10 +38,10 @@ global.bgp = 'https://chat.whatsapp.com/BESBo5xjvIZE4YVvth6Yzr'
 global.bgp2 = 'https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7'
 global.bgp3 = 'https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH' //--GP NSFW
 
-global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
-global.rwait = '⌛'
+global.wait = '🙊 _Cargando..._\n*▬▬▬▭*'
+global.rwait = '🙈'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = '👌'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
